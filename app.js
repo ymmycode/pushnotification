@@ -6,7 +6,7 @@ const subsButton = document.querySelector(`#subs`)
 addEventListener(`load`, async () => 
 {
     let sw = await navigator.serviceWorker.register(`./sw.js`)
-    console.log(sw)
+    // console.log(sw)
 })
 
 // subcribe function on button
