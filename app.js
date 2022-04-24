@@ -17,5 +17,5 @@ subsButton.onclick = async () =>
         userVisibleOnly: true,
         applicationServerKey: 'BCWMdVrYf-FHo3bsbgJLu1F05xB5oqLSsHykPVn1XrRt-_Pfebis_mgz8IoP_oVCGMDgU3wmqJEg_zdPk2Q39YI',
     })
-    console.log(JSON.stringify(push))
+    // console.log(JSON.stringify(push))
 }
