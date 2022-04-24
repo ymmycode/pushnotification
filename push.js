@@ -19,6 +19,13 @@ let sub = {
     //     p256dh:"BGi8F2d-9zynouGzioDqZSw8ffVlUvhvOQdXVRvOKVe8-JubTRSULfalIX5X20KpHsj4qAsTC2OwohcOYl32Cq8",
     //     auth:"_MmzAnwRWWhCmEO0yU6big"
     // }
+
+    endpoint:"https://fcm.googleapis.com/fcm/send/dHaaJJkYUQM:APA91bEdPgHg9pI8Y5KLGjC0HhYROPcd7r1gPRyFGJK4NOdactWyKn2IUqaE7ULBCobesk6SZ6wqtFon0hA0ngJjY3d7Cn4gpiki3lKzT7UsPcxRFBvmhtR-iGaPaNUeHz-Uk_gRla_L",
+    expirationTime:null,
+    keys:{
+        "p256dh":"BJj1wEz6VagRjc5jvV7xMgs1Ej3lUEvHQ1NZ48DtxredhdskJxeryog1OvL6nNWK4i-qyKJVndTwnVMpCpuGLks",
+        "auth":"ThZTKctknZnZb8ruqXZ-cA"
+    }
 }
 
 push.sendNotification(sub, `test message`)
