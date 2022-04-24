@@ -12,7 +12,7 @@ push.setVapidDetails(
 )
 
 let sub = {
-    endpoint:"https://wns2-sg2p.notify.windows.com/w/?token=BQYAAADGl%2bjahoIUeLs3AAeZFNg8gOoAD9RkjwwTaeM%2fl7oEvWq7Dkpg1PYXgLAaD%2bfeEA64J%2fOXP%2bBYDyHdnak22PQmbJC%2b%2b3cLqgZ%2fqBjB2vDtHFnGGlyCtrR3%2fu%2fQi3akULB2QsJbJ6B0kS7kcqbOL9%2bhrfBojaCAKoclXO7AIdOLI4Gw952Lxq375kWw%2fNXXVG%2bZoHfvl5x5UP8hkx74YBoSrD6Cltxf%2fHKpvmh5uQVF6PbA9sK9mqGKDWV1DNSKxiFNBelLCad2a4to8FgpV5jowLGp1qKmmzNEBq%2fvB6uk11dXxK0wdE2yXEhX%2bJaav7IUHjA6P8PCbFHNqdfFoi5jox5vsdOxpc4r68wYMTaR8w%3d%3d",
+    endpoint:"https://wns2-sg2p.notify.windows.com/w/?token=BQYAAACed0ygVvGYDnw2XAdxNvcLtJoG5CVQw5ExcERJYWCwfbjVtvDngNPw5d0HFt%2f4ASQZsuvO6P2r3IRFFaxNX42GajcKr3daa2pD%2fsiWAbTlKWsGJBRIPyrUsW8ebVZ7IfJE6REo1d5qSAfs4PPZbr2zFzyZ6AkPg38gOfmS8sKyS0uK5PcjCCxqdVQRVovetKwtIsI04%2byvc4QCBSVTTP8G6550oKgbm1upDgulPS5JMUqU4DSxNR%2fgA2x0%2bXBfQlNPBmVtjuLUCqZttFCJGJZb0xyHt4%2bJXAfjXCvjrzGJ4kfCFE2rMv9bdTBZvfgzCyRX%2fpBme2EcLaoUTB%2bU9k%2fc",
     expirationTime: null,
     keys:
     {
